@@ -1,0 +1,31 @@
+.container {
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(239,239,239);
+    margin-top: 100px;
+}
+input{
+   padding: 18px;
+   border-radius: 10px;
+    border: 1px solid;
+}
+button{
+    background-color: goldenrod;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+#result{
+    font-weight: bold;
+}
+body{
+    background-image: url(image/rm347-porpla-02-a-01.jpg);
+    background-size: contain;
+    background-size: 100%;
+}
